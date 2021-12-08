@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-[xde-theme-pedestals -- read me first file.  2014-09-12]: #
+[xde-theme-pedestals -- read me first file.  2021-12-08]: #
 
 xde-theme-pedestals
 ===============
 
-Package `xde-theme-pedestals-1.1.4` was released under CCPL:cc-by-nc-nd-3.0
-license 2014-09-12.
+Package `xde-theme-pedestals-1.2` was released under CCPL:cc-by-nc-nd-3.0
+license 2021-12-08.
 
 This is a theme and a set of backgrounds for the _XDE (X Desktop
 Environment)_ that provides a set of backgrounds on
@@ -21,7 +21,7 @@ The source for `xde-theme-pedestals` is hosted on [GitHub][1].
 Release
 -------
 
-This is the `xde-theme-pedestals-1.1.4` package, released 2014-09-12.
+This is the `xde-theme-pedestals-1.2` package, released 2021-12-08.
 This release, and the latest version, can be obtained from [GitHub][1],
 using a command such as:
 
@@ -102,14 +102,14 @@ using an old Canon PowerShot):
 
 [1]: https://github.com/bbidulock/xde-theme-pedestals
 [2]: https://github.com/bbidulock/xde-theme-pedestals/issues
-[3]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/RELEASE
-[4]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/NEWS
-[5]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/ChangeLog
-[6]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/TODO
-[7]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/COMPLIANCE
-[8]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/INSTALL
-[9]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/LICENSE
-[10]: https://github.com/bbidulock/xde-theme-pedestals/blob/master/COPYING
+[3]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/RELEASE
+[4]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/NEWS
+[5]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/ChangeLog
+[6]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/TODO
+[7]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/COMPLIANCE
+[8]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/INSTALL
+[9]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/LICENSE
+[10]: https://github.com/bbidulock/xde-theme-pedestals/blob/1.2/COPYING
 [11]: https://github.com/bbidulock/xde-styles
 [12]: https://github.com/bbidulock/xde-ctools
 [13]: https://bbidulock.github.io/adwm
