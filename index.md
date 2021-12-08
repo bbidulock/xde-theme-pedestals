@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [xde-theme-pedestals -- read me first file.  2014-09-12]: #
 
 xde-theme-pedestals

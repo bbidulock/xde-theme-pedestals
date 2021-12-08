@@ -1,0 +1,85 @@
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit 1c6e592fe277a3d47c59f3e6bab63d132fcbc039
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Sep 12 15:39:19 2014 -0600
+
+    added adwm style
+
+ Makefile.am        | 34 ++++++++++++++++++----------------
+ configure.template |  6 ++++++
+ 2 files changed, 24 insertions(+), 16 deletions(-)
+
+commit c94a5baef79cd6e0626346ca5d736e0022dfaaa1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Aug 17 17:15:15 2014 -0600
+
+    add themerc file
+
+ Makefile.am   |  3 ++-
+ theme/themerc | 78 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 80 insertions(+), 1 deletion(-)
+
+commit d9ef5a46fed797af9e550f39627859bac7336d1a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jan 25 05:13:48 2014 -0700
+
+    added waimea support
+
+ Makefile.am        | 32 +++++++++++++++++---------------
+ configure.template |  6 ++++++
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+
+commit ab05b4d5672001cfaf957e5280dc3bcd2de0738f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 17:51:00 2013 -0700
+
+    updated description
+
+ README | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit fa2ab98fbd502d8d163c2e8f6bb7765e84d0041e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 15:11:09 2013 -0700
+
+    initial commit
+
+ .gitignore                         |  12 ++++
+ AUTHORS                            |   3 +
+ COPYING                            |  58 +++++++++++++++
+ Makefile.am                        |  78 ++++++++++++++++++++
+ NEWS                               |  12 ++++
+ README                             |  65 +++++++++++++++++
+ THANKS                             |   3 +
+ autogen.sh                         |  19 +++++
+ configure.template                 | 126 +++++++++++++++++++++++++++++++++
+ images/choice/pedestal_canola1.jpg |   1 +
+ images/choice/pedestal_farm2.jpg   |   1 +
+ images/choice/pedestal_field4.jpg  |   1 +
+ images/choice/pedestal_tower3.jpg  |   1 +
+ images/choice/t1_canola1.jpg       |   1 +
+ images/pedestal_canola1.jpg        | Bin 0 -> 539206 bytes
+ images/pedestal_canola2.jpg        | Bin 0 -> 456027 bytes
+ images/pedestal_corner.jpg         | Bin 0 -> 776685 bytes
+ images/pedestal_farm1.jpg          | Bin 0 -> 875807 bytes
+ images/pedestal_farm2.jpg          | Bin 0 -> 762033 bytes
+ images/pedestal_field.jpg          | Bin 0 -> 616715 bytes
+ images/pedestal_field1.jpg         | Bin 0 -> 1027271 bytes
+ images/pedestal_field2.jpg         | Bin 0 -> 882541 bytes
+ images/pedestal_field3.jpg         | Bin 0 -> 989364 bytes
+ images/pedestal_field4.jpg         | Bin 0 -> 759302 bytes
+ images/pedestal_field5.jpg         | Bin 0 -> 866749 bytes
+ images/pedestal_field6.jpg         | Bin 0 -> 551899 bytes
+ images/pedestal_tower1.jpg         | Bin 0 -> 434146 bytes
+ images/pedestal_tower2.jpg         | Bin 0 -> 396955 bytes
+ images/pedestal_tower3.jpg         | Bin 0 -> 493478 bytes
+ images/t1_canola1.jpg              | Bin 0 -> 633186 bytes
+ images/t1_canola2.jpg              | Bin 0 -> 674942 bytes
+ images/t1_canola3.jpg              | Bin 0 -> 720982 bytes
+ images/t1repeater_field.jpg        | Bin 0 -> 565579 bytes
+ images/t1repeaters_field.jpg       | Bin 0 -> 606802 bytes
+ images/t1repeaters_road.jpg        | Bin 0 -> 361163 bytes
+ theme/style                        |  55 ++++++++++++++
+ theme/theme.ini                    |  91 ++++++++++++++++++++++++
+ 37 files changed, 527 insertions(+)
